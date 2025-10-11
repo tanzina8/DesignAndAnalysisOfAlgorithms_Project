@@ -30,7 +30,9 @@ The project was developed collaboratively by the group using PyCharm. All code i
    ```bash
    git clone https://github.com/tanzina8/DesignAndAnalysisOfAlgorithms_Project.git
    cd DesignAndAnalysisOfAlgorithms_Project
-3. **Install Python 3.x** if not already installed.  
+   
+3. **Install Python 3.x** if not already installed.
+   
 4. **Install required libraries** by running the following in a terminal or PyCharm console:  
    ```bash
    pip install pandas openpyxl scikit-learn matplotlib
